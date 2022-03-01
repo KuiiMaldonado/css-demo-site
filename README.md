@@ -20,6 +20,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## WebSite Screenshot
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/horiseon_screenshot.png)
 
 ## Deploy URL
 https://kuiimaldonado.github.io/css-demo-site/
