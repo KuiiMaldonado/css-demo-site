@@ -1,5 +1,5 @@
 # Horiseon
-##Refactoring Horiseon website
+## Refactoring Horiseon website
 
 Making the website accesible for people with disabilities using assistive technologies like video captions, screen readers, and braille keyboards.
 Improving the accesibility ranks the site hogher in the search engines like Google.
@@ -19,6 +19,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-##WebSite Screenshot
+## WebSite Screenshot
 
-##Deploy URL
+## Deploy URL
